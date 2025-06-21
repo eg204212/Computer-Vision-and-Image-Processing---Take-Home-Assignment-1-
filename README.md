@@ -12,6 +12,6 @@ This repository contains Python implementations of basic image processing tasks.
 **Technologies:** Python, OpenCV, NumPy
 
 **Usage:**  
-- Upload an image named `your_image.png`.  
+- Upload an image named `puppy_image.png`.  
 
 **Results:** Output images saved in the working directory.
